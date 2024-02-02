@@ -30,7 +30,3 @@ hostnames:
 
 compose:
   ansible_host: private_ip_address
-
-
-
- 
